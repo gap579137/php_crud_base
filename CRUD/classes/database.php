@@ -2,9 +2,9 @@
 class Database {
     // Connection variables
     private $host = "localhost";
-    private $dbName = "programmingknowledge";
+    private $dbName = "dbname";
     private $username = "root";
-    private $password = "";
+    private $password = "XXXXXXXX";
 
     public $conn;
 
